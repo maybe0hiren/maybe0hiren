@@ -2,7 +2,6 @@
 
 🧠 Computer Science Student at Vishwakarma Institute of Technology. <br/>
 🌐 Practicing, Creating and Learning in Public. <br/>
-💻 Programming in C, C++, Python. <br/>
 🤝 Open for Project Collaborations <br/>
 
 
